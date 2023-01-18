@@ -56,4 +56,4 @@ spec:
         - -nginx-status-port=8080
         - -nginx-status-allow-cidrs=127.0.0.1
         - -report-ingress-status
-"/tmp/kubectl-edit-3977214098.yaml" 165L, 5331C
+
